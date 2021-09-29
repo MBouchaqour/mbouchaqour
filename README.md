@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Mustapha Bouchaqour
+#### Data Analyst
+![Data Analyst](https://www.linkedin.com/in/mustapha-bouchaqour/)
 
-My name is Mustapha Bouchaqour, and I am a Data Scinetist. I have 2 years of data analytics experince most recently working in a data analyst role at New York City College of Technology. In this role I analyze students data to improve the quality of student learning outcomes. I really enjoy using Python, Java, SQL, Tableau and PowerBI to explore, analyze, and visualize data. 
+ I am a Data Scientist passionate about using Python, Java, SQL, Tableau, to analyze and visualize data, get insight and help making better decision.
+
+Skills: Python / Java/ SQL/ Visual Basic/ C#/Tableau/PowerBI/Excel
+
+- 🔭 I’m currently working on New York City College of Technology 
+- 🌱 I’m currently learning Spark 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mbouchaqour)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustapha-bouchaqour/)  
+
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbouchaqour)](https://github.com/anuraghazra/github-readme-stats)
