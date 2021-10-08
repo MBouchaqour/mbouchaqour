@@ -1,5 +1,5 @@
 ### Hi there 👋, Mustapha Bouchaqour
-#### Data Analyst
+#### Data Analyst | Data Scientist | Converting data into actionable insights for leaders.
 ![Data Analyst](https://www.linkedin.com/in/mustapha-bouchaqour/)
 
  I am a Data Scientist passionate about using Python, Java, SQL, Tableau, to analyze and visualize data, get insight and help making better decision.
