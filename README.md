@@ -1,6 +1,6 @@
 ### Hi there 👋, Mustapha.B
 #### Data Analyst | Data Scientist | Converting data into actionable insights for leaders.
-![Data Analyst](https://www.linkedin.com/in/mustapha-bouchaqour/)
+![Data Analyst]([https://www.linkedin.com/in/mustapha-bouchaqour/)
 
 I’m a Planning Analyst at MetLife, where I keep data updated for my team, using Python for data cleaning and Power BI for visualization and KPI tracking. With a solid background in pure mathematics and a BS in Data Science from City University of New York - City Tech, I’ve worked on various projects in both business and education. Currently, I’m focused on learning more about AI and pursuing a Master’s in Financial Mathematics at North Carolina State University, with a growing interest in actuarial science and risk management.
 
