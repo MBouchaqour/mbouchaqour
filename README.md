@@ -1,4 +1,4 @@
-### Hi there 👋, Mustapha Bouchaqour
+### Hi there 👋, Mustapha.B
 #### Data Analyst | Data Scientist | Converting data into actionable insights for leaders.
 ![Data Analyst](https://www.linkedin.com/in/mustapha-bouchaqour/)
 
