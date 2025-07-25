@@ -2,9 +2,9 @@
 #### Data Analyst | Data Scientist | Converting data into actionable insights for leaders.
 https://www.linkedin.com/in/mbouchaqour/
 
-I’m a Planning Analyst at MetLife, where I keep data updated for my team, using Python for data cleaning and Power BI for visualization and KPI tracking. With a solid background in pure mathematics and a BS in Data Science from City University of New York - City Tech, I’ve worked on various projects in both business and education. Currently, I’m focused on learning more about AI and pursuing a Master’s in Financial Mathematics at North Carolina State University, with a growing interest in actuarial science and risk management.
+I’m a Planning Analyst at MetLife, specializing in data integrity, automation, and performance tracking. I leverage Python for data cleaning and transformation, and Power BI for dynamic KPI visualization and executive reporting. With a strong foundation in pure mathematics and a B.S. in Data Science from CUNY City Tech, I’ve led projects across business operations and education. Currently, I’m expanding my expertise in AI and pursuing a Master’s in Financial Mathematics at NC State, with a growing focus on actuarial science and risk management.
 
-My skill set includes Python, Java 8, SQL, Visual Basic, C#, Tableau, Power BI, Excel, Power Query, M Language, DAX, Mathematical Modeling, and Financial Modeling.
+My technical toolkit includes Python, Java 8, SQL, Visual Basic, C#, Tableau, Power BI, Excel, Power Query, M Language, DAX, mathematical modeling, and financial modeling.
 
 
 
