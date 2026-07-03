@@ -1,11 +1,10 @@
 ### Hi there 👋, Mustapha.B
-#### Data Analyst | Data Scientist | Converting data into actionable insights for leaders.
+#### Senior Financial Analyst | AI Adoption & Analytics | Converting data into actionable insights for leaders.
 https://www.linkedin.com/in/mbouchaqour/
 
-I’m a Planning Analyst at MetLife, specializing in data integrity, automation, and performance tracking. I leverage Python for data cleaning and transformation, and Power BI for dynamic KPI visualization and executive reporting. With a strong foundation in pure mathematics and a B.S. in Data Science from CUNY City Tech, I’ve led projects across business operations and education. Currently, I’m expanding my expertise in AI and pursuing a Master’s in Financial Mathematics at NC State, with a growing focus on actuarial science and risk management.
-
-My technical toolkit includes Python, Java 8, SQL, Visual Basic, C#, Tableau, Power BI, Excel, Power Query, M Language, DAX, mathematical modeling, and financial modeling.
-
+I'm a Senior Financial Analyst at First Citizens Bank, working on capital planning and CCAR/DFAST stress testing. Before that, I spent over three years at MetLife — first as a Data Analyst, then as a Strategy & Planning Analyst — building the dashboards, datasets, and automated reporting that enterprise planning teams rely on. I use Python for data cleaning and automation, and Power BI for executive-facing dashboards and KPI tracking.
+With a foundation in pure mathematics (B.S. in Data Science, CUNY City Tech) and a Master's in Statistics underway at NC State, I've shifted my focus toward applied AI — using tools like Claude, Copilot, and Llama to speed up development and reporting, and helping teams actually adopt AI rather than just talk about it. I'm currently in CodePath's AI Engineering program, including an open-source contribution to a PyTorch Lightning project.
+My technical toolkit includes Python, SQL, Power BI, Power Query, DAX, M Language, Power Automate, Tableau, C#, Java, Excel, prompt engineering, and financial/risk modeling.
 
 
 
